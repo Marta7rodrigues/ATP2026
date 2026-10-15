@@ -1,5 +1,5 @@
 #Jogo dos 100
-# Primeira modalidade: O computador começa a jogar.
+
 print ("Bem vindo ao jogo dos 100!")
 print ("O objetivo do jogo é jogar números de 1 a 10, alternadamente, até que a soma total seja igual a 100. Quem chegar primeiro a 100 vence o jogo!")
 print ("--------------------------------")
