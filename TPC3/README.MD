@@ -11,3 +11,4 @@ Foi me proposta a realização de um tpc, a qual tive de criar uma aplicação e
 
 ## Resultados
 
+Os resultados deste tpc estão afixados noutra paste deste TPC3.
