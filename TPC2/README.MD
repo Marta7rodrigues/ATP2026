@@ -1,4 +1,4 @@
-# Manifesto de TPC1
+# Manifesto de TPC2
 
 Marta Gabriela Ribeiro Rodrigues
 
