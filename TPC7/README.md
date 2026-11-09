@@ -11,3 +11,4 @@ A115121
 Este trabalho de casa reúne 3 TPC diferentes. O primeiro centrou-se na aplicação de listas em compreensão, o segundo envolveu a resolução dos exercícios propostos e o terceiro teve como objetivo a definição das funções solicitadas.
 
 ## Resultados
+https://github.com/Marta7rodrigues/ATP2026/blob/main/TPC7/Teste%20de%20aferi%C3%A7%C3%A3o.ipynb
