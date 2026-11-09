@@ -9,3 +9,5 @@ A115121
 ## Resumo do trabalho
 
 Este trabalho de casa reúne 3 TPC diferentes. O primeiro centrou-se na aplicação de listas em compreensão, o segundo envolveu a resolução dos exercícios propostos e o terceiro teve como objetivo a definição das funções solicitadas.
+
+## Resultados
